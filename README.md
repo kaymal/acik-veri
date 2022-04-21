@@ -9,11 +9,14 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 - [Uluslararası Kurumlar](#uluslararas--kurumlar)
 - [COVID](#covid)
 - [Piyasalar](#piyasalar)
+- [Türkçe Doğal Dil İşleme (NLP)](#t-rk-e-do-al-dil-i--leme--nlp-)
+- [Diğer](#di-er)
 
 ## Resmi Kurumlar
 
 - [Resmi İstatistil Portalı](https://www.resmiistatistik.gov.tr)
 - [Türkiye İstatistil Kurumu (TUİK)](https://www.tuik.gov.tr)
+- [Türkiye Cumhuriyeti Merkez Bankası](https://www.tcmb.gov.tr)
 - [ULAKBİM Veri Portalı](https://veri.ulakbim.gov.tr/index)
 - [Yüksek Seçim Kurulu Açık Veri Portalı](https://acikveri.ysk.gov.tr/anasayfa)
 - [Sağlık Bakanlığı Açık Veri Portalı (Pilot Çalışma)](https://sbsgm.saglik.gov.tr/TR-40297/acik-veri-portali--pilot-calisma.html)
@@ -33,7 +36,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 
 ## Uluslararası Kurumlar
 - [Dünya Bankası - Türkiye](https://data.worldbank.org/country/TR?locale=tr)
-- [Eurostat](https://ec.europa.eu/eurostat/web/main/data/database)
+- [Avrupa Birliği İstatistik Ofisi (Eurostat)](https://ec.europa.eu/eurostat/web/main/data/database)
 
 ## COVID
 
@@ -43,3 +46,12 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 ## Piyasalar
 
 - [Borsa İstanbul Data Store](https://datastore.borsaistanbul.com)
+
+## Türkçe Doğal Dil İşleme (NLP)
+- [Türkçe Dil Deposu](https://tdd.ai/?language=tr)
+- [İTÜ Türkçe Doğal Dil İşleme Yazılım Zinciri](http://tools.nlp.itu.edu.tr/Datasets)
+- [Bilkent Turkish Writings Dataset](https://github.com/selimfirat/bilkent-turkish-writings-dataset)
+
+## Diğer
+
+- [Veri Kaynağı](https://www.verikaynagi.com)
