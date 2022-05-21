@@ -59,3 +59,4 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 ## Diğer
 
 - [Veri Kaynağı](https://www.verikaynagi.com)
+- [Cinsiyet Eşitliği İzleme Derneği Veri Portalı](https://veriportali.ceid.org.tr)
