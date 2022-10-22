@@ -32,6 +32,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 - [Bursa Açık Veri Platformu](https://acikyesil.bursa.bel.tr/bkimiz)
 - [Kocaeli Büyükşehir Belediyesi Açık Veri Paylaşımı](https://www.kocaeli.bel.tr/tr/main/pages/acik-veri-paylasimi/1077)
 - [Marmara Belediyeler Birliği Açık Veri Portalı](https://data.marmara.gov.tr)
+- [Ankara Büyükşehir Belediyesi Açık Veri Portalı](https://seffaf.ankara.bel.tr/)
 
 
 ## Üniversiteler
