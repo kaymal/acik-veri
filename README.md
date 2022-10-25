@@ -26,7 +26,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
  
 - [İstanbul Büyükşehir Belediyesi Açık Veri Portalı](https://data.ibb.gov.tr)
     - [Küçükçekmece Belediyesi Açık Veri Platformu](https://acikveri.kucukcekmece.bel.tr)
-    - [Beyoğlu Açık Veri Veri Setleri](https://acikveri.beyoglu.bel.tr/categories)
+    - [Beyoğlu Açık Veri Setleri](https://acikveri.beyoglu.bel.tr/categories)
     - [Tuzla Belediyesi Açık Veri Portalı](https://veri.tuzla.bel.tr/)
 - [İzmir Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.bizizmir.com)
 - [Konya Açık Veri Portalı](https://acikveri.konya.bel.tr)
