@@ -3,14 +3,16 @@
 Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazırlanarak aşağıda listelenmiştir. 
 
 ## İçindekiler
+
 - [Resmi Kurumlar](#resmi-kurumlar)
-- [Belediyeler, Şehirler](#belediyeler---ehirler)
-- [Üniversiteler](#-niversiteler)
-- [Uluslararası Kurumlar](#uluslararas--kurumlar)
+- [Belediyeler, Şehirler](#belediyeler-sehirler)
+- [Üniversiteler](#üniversiteler)
+- [Uluslararası Kurumlar](#uluslararası-kurumlar)
 - [COVID](#covid)
 - [Piyasalar](#piyasalar)
-- [Türkçe Doğal Dil İşleme (NLP)](#t-rk-e-do-al-dil-i--leme--nlp-)
-- [Diğer](#di-er)
+- [Türkçe Doğal Dil İşleme (NLP)](#türkçe-doğal-dil-i̇şleme-nlp)
+- [API'ler](#api-ler)
+- [Diğer](#diğer)
 
 ## Resmi Kurumlar
 
@@ -61,6 +63,10 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 - [İTÜ Türkçe Doğal Dil İşleme Yazılım Zinciri](http://tools.nlp.itu.edu.tr/Datasets)
 - [Bilkent Turkish Writings Dataset](https://github.com/selimfirat/bilkent-turkish-writings-dataset)
 - [YTÜ Kemik Doğal Dil İşleme Grubu](http://www.kemik.yildiz.edu.tr/veri_kumelerimiz.html)
+
+## API'ler
+- [Merkez Bankası Python API](https://github.com/kaymal/tcmb-py)
+- [Merkez Bankası R API](https://github.com/etaymaz/CBRT)
 
 ## Diğer
 
