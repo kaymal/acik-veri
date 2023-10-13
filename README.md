@@ -24,7 +24,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 - [Sağlık Bakanlığı Açık Veri Portalı (Pilot Çalışma)](https://sbsgm.saglik.gov.tr/TR-40297/acik-veri-portali--pilot-calisma.html)
 - [Türkiye Ulusal Coğrafi Bilgi Portalı](https://atlas.gov.tr/)
     - [Türkiye Ulusal Coğrafi Açık Veri Portalı](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri?)
-- [Ulusal Hava Kalite İzleme Ağı Veri Portalı](https://sim.csb.gov.tr/)
+- [Ulusal Hava Kalitesi İzleme Ağı Veri Portalı](https://sim.csb.gov.tr/)
   
 ## Belediyeler, Şehirler
  
