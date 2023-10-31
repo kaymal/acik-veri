@@ -32,6 +32,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
     - [Küçükçekmece Belediyesi Açık Veri Platformu](https://acikveri.kucukcekmece.bel.tr)
     - [Beyoğlu Açık Veri Setleri](https://acikveri.beyoglu.bel.tr/categories)
     - [Tuzla Belediyesi Açık Veri Portalı](https://veri.tuzla.bel.tr/)
+    - [Eyüpsultan Belediyesi Açık Veri Portalı](https://acikveri.eyupsultan.bel.tr)
 - [İzmir Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.bizizmir.com)
 - [Konya Açık Veri Portalı](https://acikveri.konya.bel.tr)
 - [Balıkesir Büyükşehir Belediyesi Açık Veri Platformu](https://acikveri.balikesir.bel.tr)
@@ -41,6 +42,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 - [Ankara Büyükşehir Belediyesi Açık Veri Portalı](https://seffaf.ankara.bel.tr/)
 - [Gaziantep Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.gaziantep.bel.tr/)
 - [Ordu Büyükşehir Belediyesi Coğrafi Açık Veri Portalı](https://portal.ordu.bel.tr/)
+- [Kayseri Büyükşehir Belediyesi Coğrafi Açık Veri Portalı](https://acikveri.kayseri.bel.tr/)
 
 
 ## Üniversiteler
