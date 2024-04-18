@@ -75,6 +75,8 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 
 - [Merkez Bankası Python API](https://github.com/kaymal/tcmb-py)
 - [Merkez Bankası R API](https://github.com/etaymaz/CBRT)
+- [Merkez Bankası Python API](https://github.com/fatihmete/evds)
+
 
 ## Diğer
 
