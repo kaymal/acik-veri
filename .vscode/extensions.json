@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "yzhang.markdown-all-in-one",
+    "ms-vscode.wordcount"
+  ]
+}
