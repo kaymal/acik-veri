@@ -66,6 +66,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 
 ## Türkçe Doğal Dil İşleme (NLP)
 
+- [TekPedal Türkçe EV Şarj Niyet Veri Seti](https://tekpedal.com/acik-veri)
 - [Türkçe Dil Deposu](https://tdd.ai/?language=tr)
 - [İTÜ Türkçe Doğal Dil İşleme Yazılım Zinciri](http://tools.nlp.itu.edu.tr/Datasets)
 - [Bilkent Turkish Writings Dataset](https://github.com/selimfirat/bilkent-turkish-writings-dataset)
