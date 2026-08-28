@@ -83,3 +83,4 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 - [Veri Kaynağı](https://www.verikaynagi.com)
 - [Cinsiyet Eşitliği İzleme Derneği Veri Portalı](https://veriportali.ceid.org.tr)
 - [Türkiye API: Türkiye'deki iller, ilçeler, mahalleler ve köyler](https://github.com/ubeydeozdmr/turkiye-api)
+- [Türkiye Zeytin Verisi: il, bölge ve çeşit düzeyinde zeytin üretimi (CSV, CC BY 4.0)](https://github.com/yudumnet/zeytinnet)
